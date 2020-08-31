@@ -1,8 +1,9 @@
 
 
-# Fraud detection using big data with PySpark
+# Fraud detection using big data and PySpark framework
 
 ![alt text](./img/basic_flow_chart.PNG)
+
 The picture is referenced [here](https://mapr.com/blog/real-time-credit-card-fraud-detection-apache-spark-and-event-streaming/).
 
 
